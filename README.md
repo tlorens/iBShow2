@@ -1,4 +1,4 @@
-# iBShow2
+# iBShow2 / ODROID Show 2 show_main.ino
 Rewrite of show_main.ino to work with Adafruit_ILI9340 and Adafruit_GFX.
 
 Mostly fixed the use of cursor_x and cursor_y member variables.   Of course the Hardkernel guys modified  the original 
